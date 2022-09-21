@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: recruiter-selfService
+  consumesApis:
+    - example-grpc-api
   tags:
     - react
     - nextjs
@@ -17,4 +19,4 @@ metadata:
 spec:
   type: website
   owner: backstage/maintainers
-  lifecycle: experimental
+  lifecycle: production
