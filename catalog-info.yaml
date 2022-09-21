@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: demo
+  name: recruiter-selfService
   links:
-    - url: https://dashboard.example.com
-      title: My Dashboard
+    - url: https://github.com/occmundial/recruiter-selfService
+      title: Repositorio
       icon: dashboard
-  description: An example deployment of a Backstage application.
+  description: Creación de cuenta y primera publicación de vacante.
   annotations:
     github.com/project-slug: backstage/demo
     backstage.io/techdocs-ref: dir:.

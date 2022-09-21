@@ -1,7 +1,9 @@
-site_name: 'example-docs'
+site_name: 'Contenido'
 
 nav:
-  - Home: index.md
+  - Acerca de: index.md
+  - Secciones: sections.md
+  - Servicios: services.md
 
 plugins:
   - techdocs-core
