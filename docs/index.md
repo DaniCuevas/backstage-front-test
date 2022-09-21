@@ -1,4 +1,3 @@
-
 # Creación de cuenta y primera publicación de vacante.
 
 **Repositorio:** <https://github.com/occmundial/recruiter-selfService>
@@ -23,6 +22,7 @@
 * [Jest 26.6.1](<https://github.com/facebook/jest/releases/tag/v27.0.6>)
 
 **Reglas de negocio:**
+
 * Son usuarios nuevos que quieren publicar solo UNA vacante, por lo tanto deben crear una 
 cuenta de usuario de OCC la cual tendrá privilegios de administrador hacía la organización.
 * El usuario tendrá que terminar el flujo para poder acceder a la plataforma.
