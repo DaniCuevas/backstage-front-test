@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: recruiter-selfService
   tags:
-   - react
+    - react
     - nextjs
     - typescript
   links:
@@ -16,7 +16,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 spec:
   consumesApis:
-   - example-grpc-api
+    - example-grpc-api
   type: website
   owner: backstage/maintainers
   lifecycle: production
