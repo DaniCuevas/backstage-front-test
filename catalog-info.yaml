@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: recruiter-selfService
+  tags:
+    - react
+    - nextjs
+    - typescript
   links:
     - url: https://github.com/occmundial/recruiter-selfService
       title: Repositorio
