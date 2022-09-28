@@ -13,8 +13,7 @@ metadata:
   description: Creación de cuenta y primera publicación de vacante.
   annotations:
     github.com/project-slug: backstage/demo
-    backstage.io/source-location: url:https://github.com/DaniCuevas/backstage-front-test
-    backstage.io/techdocs-ref: url:https://github.com/DaniCuevas/backstage-front-test
+    backstage.io/techdocs-ref: dir:.
 spec:
   consumesApis:
     - example-grpc-api
