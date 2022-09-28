@@ -12,8 +12,8 @@ metadata:
       icon: dashboard
   description: Creación de cuenta y primera publicación de vacante.
   annotations:
-    github.com/project-slug: https://github.com/DaniCuevas/backstage-front-test
-    backstage.io/techdocs-ref: https://github.com/DaniCuevas/backstage-front-test
+    github.com/project-slug: backstage/demo
+    backstage.io/techdocs-ref: dir:.
 spec:
   consumesApis:
     - example-grpc-api
