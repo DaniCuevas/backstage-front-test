@@ -1,7 +1,9 @@
 site_name: 'Contenido'
 
 nav:
-  - Home: README.md
+  - Acerca de: index.md
+  - Secciones: sections.md
+  - Servicios: services.md
 
 plugins:
   - techdocs-core
