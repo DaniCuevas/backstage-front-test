@@ -1,7 +1,7 @@
 site_name: 'Contenido'
 
 nav:
-  - Acerca de: README.md
+  - Acerca de: index.md
   - Secciones: sections.md
   - Servicios: services.md
 
