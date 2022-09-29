@@ -1,9 +1,9 @@
 site_name: 'Contenido'
-
-nav:
-  - Acerca de: index.md
-  - Secciones: sections.md
-  - Servicios: services.md
+repo_url: git@github.com:DaniCuevas/backstage-front-test.git
+edit_uri: edit/main/docs
 
 plugins:
   - techdocs-core
+
+nav:
+  - Home: README.md
